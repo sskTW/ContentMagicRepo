@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Drew-Brees.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Sandra-Bullock.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Walter-Cronkite.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Farrah-Fawcett.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Drew-Brees.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Sandra-Bullock.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Walter-Cronkite.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Famous-People/Farrah-Fawcett.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.OnlineOnly" />
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

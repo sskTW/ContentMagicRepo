@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Course-Content/4-1-State-Capitol.htm" />
+    <Link
+      Url="Content/Course-Content/4-2-Zilker-Park.htm" />
+    <Link
+      Url="Content/Course-Content/4-3-Lady-Bird-Lake.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Austin-Map.png" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/State-Capitol.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/Zilker-Park.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/Lady-Bird-Lake.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Course-Content/4-1-State-Capitol.htm" />
+    <Link
+      Url="Content/Course-Content/4-2-Zilker-Park.htm" />
+    <Link
+      Url="Content/Course-Content/4-3-Lady-Bird-Lake.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Austin-Map.png" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/State-Capitol.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/Zilker-Park.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Misc-Content/Lady-Bird-Lake.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.OnlineOnly" />
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
